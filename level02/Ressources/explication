@@ -1,0 +1,5 @@
+Je me suis renseigne sur l'extension pcap et ai appris que c'etait un fichier contenant des données en paquets d'un réseau.
+
+Il etait recommande d'utiliser Wireshark pour lire ces donnees.
+
+En lisant le Stream TCP, en lisant les data comme un Mac, le password a legerement ete modifie et il m'a permis d'obtenir le flag

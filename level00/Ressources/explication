@@ -1,0 +1,13 @@
+find / -user flag00
+
+/usr/sbin/john semble etre le seul fichier accesible donc, 
+
+cat /usr/sbin/john
+
+retour du cat : cdiiddwpgswtgt
+
+tentative su flag00 avec ce code, marche pas
+
+ressemble a une chaine de caractere crypte en CaesarCipher (rotation de string),
+
+Caesar code breaker, avec la 15em cle donne => nottoohardhere

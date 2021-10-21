@@ -1,0 +1,6 @@
+l'indice du level precedent etant "John", j'en deduit l'utilisation de John The Ripper.
+
+Je trouve le fichier passwd dans la VM SnowCrash, je la copie dans ma VM Parrot pour la cracker
+avec John the Ripper
+
+John passwd => abcdefg
